@@ -1,0 +1,4 @@
+,RMSE,RMSE,MAE,MAE,sMAPE,sMAPE
+,mean,std,mean,std,mean,std
+config,,,,,,
+with external,60.772,3.287,46.02,3.372,68.031,3.364
